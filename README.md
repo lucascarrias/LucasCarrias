@@ -1,16 +1,16 @@
-### Hi there 👋
+# Lucas Carrias
 
-<!--
-**LucasCarrias/LucasCarrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá Mundo! :alien:
+Sempre estou procurando novos desafios e aprender coisas novas.
+<br/> Sou estudante de Análise e Desenvolvimento de Sistemas e busco uma carreira como desenvolvedor web e mobile. :eyeglasses:
 
-Here are some ideas to get you started:
+ :school:  &nbsp; Estudo no **IFPI**
+ <br/> :stars: &nbsp; Buscando colaborar com projetos de todos os tipos, sem medo de encarar coisas novas.
+ <br/> :v: &nbsp; Posso ajudar com Backend utilizando frameworks com Python ou Javascript, em geral. Ou no Front com Angular ou ReactJS.
+ <br/> :eyes: Tenho uma dedicação especial em Web Scraping.
+ <br/> :computer: &nbsp; Minha stack: Django, Node.js, ReactJS 
+ <br/> 💬  &nbsp; Sobre mim: Curto fotografia, jogos indie, assistir filmes e conhecer lugares novos;
+ <br/> :email: &nbsp; Como entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasCarrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carrias/)](https://www.linkedin.com/in/lucas-carrias/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
