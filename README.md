@@ -6,11 +6,12 @@ Sempre estou procurando novos desafios e aprender coisas novas.
 
  :school:  &nbsp; Estudo no **IFPI**
  <br/> :stars: &nbsp; Buscando colaborar com projetos de todos os tipos, sem medo de encarar coisas novas.
- <br/> :v: &nbsp; Posso ajudar com Backend utilizando frameworks com Python ou Javascript, em geral. Ou no Front com Angular ou ReactJS.
+ <br/> :v: &nbsp; Posso ajudar com Backend utilizando frameworks com Python ou Javascript, em geral.
  <br/> :eyes: Tenho uma dedicação especial em Web Scraping.
- <br/> :computer: &nbsp; Minha stack: Django, Node.js, ReactJS 
+ <br/> :computer: &nbsp; Minha stack: Django, Django Rest Framework e Node.js.
  <br/> 💬  &nbsp; Sobre mim: Curto fotografia, jogos indie, assistir filmes e conhecer lugares novos;
- <br/> :email: &nbsp; Como entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasCarrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carrias/)](https://www.linkedin.com/in/lucas-carrias/) 
+ <br/> :email: &nbsp; Como entrar em contato comigo: 
+<br/> [![Linkedin Badge](https://img.shields.io/badge/-LucasCarrias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-carrias/)](https://www.linkedin.com/in/lucas-carrias/) 
 
 
 ```
