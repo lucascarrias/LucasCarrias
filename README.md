@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucascarrias&row=1&theme=dark" alt="lucascarrias" /></a> </p>
 
-- 🔭 I’m currently working on **Netronian and Ockman**
+- 🔭 I’m currently working on **Netronian Inc.** :us:
 
 - 🌱 I’m currently learning **Rails, React and Flutter**
 
