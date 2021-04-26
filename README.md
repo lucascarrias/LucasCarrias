@@ -2,9 +2,9 @@
 <h3 align="center">Developer from Brazil 🇧🇷</h3>
 
 
-- 🔭 I’m currently working with Ruby on Rails :us:
+- 💻 I’m currently working remote with Ruby on Rails 💎
 
-- 🌱 I’m currently learning **NextJS**
+- 📖 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Django**
 
@@ -13,8 +13,6 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarrias&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=dark" alt="lucascarrias" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucascarrias&show_icons=true&locale=en&theme=dark" alt="lucascarrias" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucascarrias&row=1&theme=dark" alt="lucascarrias" /></a> </p>
 
