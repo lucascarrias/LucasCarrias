@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working from home with Ruby on Rails
 
-- 📖 I’m currently learning **NextJS**
+- 📖 I’m currently learning **React** and **React Native**
 
 - 💬 Ask me about **Django**
 
