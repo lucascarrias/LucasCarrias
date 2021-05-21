@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Brazil 🇧🇷</h3>
 
 
-- 💻 I’m currently working from home with Ruby on Rails
+- 💻 I’m currently working from home with **Ruby on Rails**
 
 - 📖 I’m currently learning **React** and **React Native**
 
