@@ -2,7 +2,7 @@
 <h3 align="center">Developer from Brazil 🇧🇷</h3>
 
 
-- 💻 I’m a Software Developer at Codeminer42
+- 💻 Software Developer at Codeminer42
 
 - 📖 I’m currently learning **React**, **React Native** and **Ruby on Rails**
 
