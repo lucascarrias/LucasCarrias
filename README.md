@@ -4,7 +4,7 @@
 
 - 💻 Software Developer at Codeminer42
 
-- 📖 I’m currently learning **React** and **Ruby on Rails**
+- 📖 I’m currently working with **Ruby on Rails**
 
 ---
 
