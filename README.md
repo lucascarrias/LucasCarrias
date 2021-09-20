@@ -4,7 +4,9 @@
 
 - 💻 Software Developer at Codeminer42
 
-- 📖 I’m currently working with **Ruby on Rails**
+- 💼 I’m currently working with **Ruby on Rails**
+
+- 🔎 I’m interested in learning more about **Elixir** and **Blockchain**
 
 ---
 
