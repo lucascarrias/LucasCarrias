@@ -6,7 +6,7 @@
 
 - 💼 I’m currently working with **Ruby on Rails**
 
-- 🔎 I’m interested in learning more about **Elixir**
+- 🧪 Learning how to **Elixir**
 
 ---
 
