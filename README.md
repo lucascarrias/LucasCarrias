@@ -2,11 +2,11 @@
 <h3 align="center">Developer from Brazil 🇧🇷</h3>
 
 
-- 💻 Software Developer at Codeminer42
+- 💻 Software Developer at [Codeminer42](https://www.codeminer42.com/)
 
-- 💼 I’m currently working with **Ruby on Rails**
+- 💼 I’m currently working with [Ruby on Rails](https://rubyonrails.org/)
 
-- 🧪 Learning how to **Elixir**
+- 🧪 Learning how to [Elixir](https://elixir-lang.org/)
 
 ---
 
