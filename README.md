@@ -6,7 +6,7 @@
 
 - 💼 I’m currently working with [Ruby on Rails](https://rubyonrails.org/)
 
-- 🧪 Learning how to [Elixir](https://elixir-lang.org/)
+- 🧪 Taking a nice sip of [Elixir](https://elixir-lang.org/)
 
 ---
 
