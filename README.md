@@ -10,6 +10,6 @@
 
 ---
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarrias&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6" alt="lucascarrias" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarrias&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide=html,scss,css" alt="lucascarrias" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucascarrias&row=1&theme=dark" alt="lucascarrias" /></a> </p>
