@@ -4,8 +4,6 @@
 <br>
 
 <p>
-  
-- 💻 Software Developer at [Codeminer42](https://www.codeminer42.com/)
 
 - 💼 I’m currently working with [Ruby on Rails](https://rubyonrails.org/)
 
