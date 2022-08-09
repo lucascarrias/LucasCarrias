@@ -14,3 +14,7 @@
 <br>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarrias&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide=html,scss,css" alt="lucascarrias" /></p>
+
+---
+
+*Design is more the art of preserving changeability than it is the act of achieving perfection.* - Sandi Metz
