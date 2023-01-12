@@ -6,8 +6,6 @@
 
 <p>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascarrias&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide=html,scss,css" alt="lucascarrias" />
-
 - 💼 I’m currently working with [Ruby on Rails](https://rubyonrails.org/)
 
 - 🧪 Mixturing some [Elixir](https://elixir-lang.org/)
