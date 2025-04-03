@@ -8,7 +8,6 @@
 
 - 💼 I’m currently working with [Ruby on Rails](https://rubyonrails.org/)
 
-- 🧪 Mixturing some [Elixir](https://elixir-lang.org/)
 
 </p>
 
