@@ -1,19 +1,4 @@
-<h1 align="center">Hello world 👽, I'm Lucas Carrias</h1>
-<h3 align="center">Developer from Brazil 🇧🇷</h3>
-
-<br>
-<br>
-
-<p>
-
-- 💼 I’m currently working with [Ruby on Rails](https://rubyonrails.org/)
-
-
-</p>
-
-<br>
-<br>
-<br>
+I believe in coding for fun!
 
 ---
 
