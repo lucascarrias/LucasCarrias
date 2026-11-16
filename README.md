@@ -11,6 +11,6 @@ Stack I reach for: Ruby, Rails, TypeScript, React, GraphQL, PostgreSQL, MongoDB,
 
 Outside the day job, 10–20 hours a week on personal or friends' projects — currently a monitoring pipeline for flaky external APIs, among other things.
 
-[lucascarrias.com](https://lucascarrias.com) · [LinkedIn](https://linkedin.com/in/lucas-carrias) · lucascarriasbruno@gmail.com
+[lucascarrias.com](https://lucascarrias.com) · [LinkedIn](https://linkedin.com/in/lucas-carrias)
 
 > *Design is more the art of preserving changeability than it is the act of achieving perfection.* — Sandi Metz
